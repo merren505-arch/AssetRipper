@@ -1,5 +1,9 @@
+using AssetRipper.Assets;
 using AssetRipper.Import.Logging;
+using AssetRipper.Import.Structure.Assembly.Serializable;
 using AssetRipper.Import.Structure.Platforms;
+using AssetRipper.SourceGenerated.Classes.ClassID_114;
+using AssetRipper.SourceGenerated.Extensions;
 using System.IO;
 
 namespace AssetRipper.Processing.Addressables;
