@@ -1,5 +1,6 @@
 using AssetRipper.Assets;
 using AssetRipper.Import.Logging;
+using AssetRipper.Import.Structure.Assembly;
 using AssetRipper.Import.Structure.Assembly.Serializable;
 using AssetRipper.Import.Structure.Platforms;
 using AssetRipper.SourceGenerated.Classes.ClassID_114;
